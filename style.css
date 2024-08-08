@@ -1,0 +1,13 @@
+.color-box {
+  width: 50%;
+  //height: auto;
+  background: blue;
+  margin: 10px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 0.7em;
+  padding: 10px;
+  border-radius: 15px;
+}
+
